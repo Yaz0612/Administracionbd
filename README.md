@@ -9,6 +9,6 @@ En este repositorio se encuentran scripst relacionados a la administracion de ba
 5. Monitoreo
 6. Automatización de tareas
 
-[Administración de base de datos][./Images/admonbase.png]
+[Administración de base de datos][./Images/admonbase.jpg]
 
 
